@@ -1,4 +1,6 @@
 # ERP System Prototype
+**Live Application:**  
+https://erp-prototype-jenil.streamlit.app/
 
 ## 1. Company Assessment
 Based on the provided Excel management report, the current workflow at Amba Enterprises relies heavily on manual spreadsheet tracking. While this method works for basic record keeping, it introduces several operational challenges.
@@ -139,8 +141,7 @@ For this prototype, the process is simulated but follows the same architectural 
 ## Live Application
 
 **Streamlit Cloud URL**
-https://REPLACE_WITH_YOUR_STREAMLIT_APP_URL.streamlit.app
-
+https://erp-prototype-jenil.streamlit.app/
 
 ## Local Setup Instructions
 Follow these steps to run the project locally on your machine.
